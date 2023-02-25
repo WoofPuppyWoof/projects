@@ -15,7 +15,7 @@ function draw() {
     if (enabled == true) {
       console.log(correctCode);
       console.log("activating");
-      //Redirect("https://woofpuppywoof.github.io/snake");
+      Redirect("https://woofpuppywoof.github.io/bruh");
       enabled = false;
     }
   }
